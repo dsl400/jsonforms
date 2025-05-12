@@ -6,7 +6,7 @@ import {
 } from '@angular/core';
 
 @Component({
-  selector: 'formbuilder',
+  selector: 'jsonforms-builder',
   styleUrls: ['./formbuilder.component.scss'],
   templateUrl: './formbuilder.component.html',
   encapsulation: ViewEncapsulation.None,

@@ -43,7 +43,7 @@ const defaultI18n: JsonFormsI18nState = {
       <button (click)="toggleReadonly()">
         {{ readonly ? 'Unset' : 'Set' }} Readonly
       </button>
-    </div>
+    </div>bbb
     <jsonforms-builder></jsonforms-builder>
   `,
   standalone: false,

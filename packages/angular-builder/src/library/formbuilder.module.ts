@@ -49,7 +49,7 @@ import { FormbuilderPreviewComponent } from './components/formbuilder-preview/fo
     FormbuilderEditorComponent,
     FormbuilderPreviewComponent,
   ],
-  exports: [CommonModule],
+  exports: [CommonModule, JsonformsBuilderComponent],
   schemas: [],
   providers: [],
 })
